@@ -1,0 +1,9 @@
+.nav{
+    background-color: rgb(200, 200, 200);
+}
+.NavTop{
+    position: inline-block;
+    padding: center;
+    background-color: rgb(39, 47, 47);
+    color: rgb(255, 255, 255)
+}
